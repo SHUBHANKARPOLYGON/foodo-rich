@@ -15,7 +15,7 @@
 }
 
 .App-header {
-  background-color: #a74613;
+  background-color: #680f0f;
   padding: 60px 20px; /* Adjusted padding for more top and bottom spacing */
   display: flex;
   flex-direction: column;
@@ -29,7 +29,7 @@
 
 .headline {
   font-size: 48px;
-  color: #971906;
+  color: #eae6e5;
   margin: 0 0 20px; /* Removed top margin and kept bottom margin */
   line-height: 1.2; /* Added line height for better spacing between lines */
 }
@@ -55,7 +55,7 @@
 .download-text {
   font-size: 28px; /* Increased font size */
   margin: 40px 0; /* Increased margin for better separation */
-  color: #751a0c; /* Changed text color */
+  color: #eae6e5; /* Changed text color */
   font-weight: bold; /* Added font weight for emphasis */
   text-transform: uppercase; /* Make the text uppercase */
 }
@@ -87,7 +87,7 @@
 }
 
 .footer-links a {
-  color: #701c0f;
+  color: #eae6e5;
   text-decoration: none;
   font-size: 19px; /* Adjusted font size for better readability */
   font-weight: bold;
