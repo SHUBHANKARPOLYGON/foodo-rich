@@ -9,13 +9,9 @@
 }
 
 /* Apply the custom font to the entire app */
-body{
-  overflow-y: hidden;
-}
 .App {
   text-align: center;
   font-family: 'MyCustomFont', Arial, sans-serif;
-  
 }
 
 .App-header {
@@ -27,8 +23,8 @@ body{
 }
 
 .logo {
-  width: 340px;
-  margin-bottom: 50px; /* Increased margin for more breathing room */
+  width: 390px;
+  margin-bottom: 100px; /* Increased margin for more breathing room */
 }
 
 .headline {
@@ -67,7 +63,7 @@ body{
 .store-buttons {
   display: flex;
   gap: 20px;
-  margin-bottom: 30px; /* Increased bottom margin for more space before the footer */
+  margin-bottom: 60px; /* Increased bottom margin for more space before the footer */
 }
 
 .store-badge {
